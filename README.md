@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sr-imran&show_icons=true&locale=en" alt="sr-imran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SR-iMrAN&" alt="sr-imran" /></p>
+<img src="https://raw.githubusercontent.com/SR-iMrAN/SR-iMrAN/output/snake.svg" alt="Snake animation" />
+
+
