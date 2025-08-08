@@ -71,7 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-iMrAN&layout=compact&theme=default" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SR-iMrAN&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-imran&show_icons=true&theme=default" />
 </p>
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SR-iMrAN&show_icons=true&theme=tokyonight" />
