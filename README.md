@@ -20,7 +20,7 @@
 ### 🚀 Current Activities
 
 - 🌱 Learning **Next.js** and advanced React patterns  
-- 💻 Working on a **tourism web app** using the MERN stack  
+- 💻 Working on a **Blood Donation web app** using the MERN stack  
 - 📚 Exploring **Framer Motion** for animations and UI enhancement  
 - 🛠️ Building projects to strengthen my **frontend fundamentals**  
 
@@ -60,8 +60,8 @@
 ### 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SR-iMrAN)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sr-imran/)
+
 
 ---
 
