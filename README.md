@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sr-imran&show_icons=true&theme=default" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SR-iMrAN&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-imran&theme=default" />
 </p>
 
 ---
