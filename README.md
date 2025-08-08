@@ -70,10 +70,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-imran&layout=compact&theme=default" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sr-imran&show_icons=true&theme=default" />
 </p>
-<p align="left">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sr-imran&theme=default" />
 </p>
 
