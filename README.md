@@ -19,8 +19,8 @@
 
 ### 🚀 Current Activities
 
-- 🌱 Learning **Next.js** and advanced React patterns  
-- 💻 Working on a **Blood Donation web app** using the MERN stack  
+- 🌱 Learning **Next.js** and Python  
+- 💻 Working on a **ExamVault+** a Quiz management system  using the Java  
 - 📚 Exploring **Framer Motion** for animations and UI enhancement  
 - 🛠️ Building projects to strengthen my **frontend fundamentals**  
 
