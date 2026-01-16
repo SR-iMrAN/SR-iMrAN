@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/KpKsGxLH/Blue-Simple-Front-End-Developer-Linked-In-Banner-ezgif-com-video-to-gif-converter.gif" width="150" style="border-radius: 12px;" />
+  <img src="https://i.ibb.co.com/KpKsGxLH/Blue-Simple-Front-End-Developer-Linked-In-Banner-ezgif-com-video-to-gif-converter.gif" width="" style="border-radius: 12px;" />
 
 </p>
 
